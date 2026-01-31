@@ -49,7 +49,7 @@ Follow these steps to set up and run the project locally:
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ITPM_Assignment_1.git
+git clone https://github.com/Ovinda-Rathnayeka/IT23172050
 
 Navigate to the project directory
 
